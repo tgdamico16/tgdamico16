@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @tgdamico16
-- 🌱 Third-year computer science student at the University of Kansas.
+- 🌱 Undergraduate computer science student at the University of Kansas.
